@@ -4,6 +4,10 @@
   "displayName": "Extension Lister",
   "description": "An extension that reads installed extensions that are active and not of the \"Theme\" category and writes them as a list to a file on disk",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:clarkio/vscode-extension-lister.git"
+  },
   "engines": {
     "vscode": "^1.32.0"
   },
